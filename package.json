@@ -1,0 +1,21 @@
+{
+  "name": "@tropaeis/rating-calculator",
+  "version": "0.1.0",
+  "description": "Collection of rating calculation algorithms",
+  "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/tropaeis/rating-calculator.git",
+    "type": "git"
+  },
+  "author": "Matthew LaForest <matthewalaforest@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^16.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.0"
+  }
+}
